@@ -29,8 +29,7 @@ I work on hybrid quantum–classical methods, variational algorithms, and scient
 
 ### 🤝 Let's Connect
 
-- **GitHub Repos:** Check out my pinned projects for Quantum Optimization, QPINNs, and simulation tools.  
-- **LinkedIn:** https://www.linkedin.com/in/ghanshyam-suthar-986a58256  
+- **GitHub Repos:** Check out my pinned projects for Quantum Optimization, QPINNs, and simulation tools.
 - **Email:** [ghanshyamsuthar788@gmail.com](mailto:ghanshyamsuthar788@gmail.com)
 
 ---
