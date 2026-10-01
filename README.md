@@ -17,7 +17,6 @@ I explore hybrid quantum–classical methods, Quantum Error Correction, and phys
 **Quantum:** Qiskit, Cirq, Pennylane  
 **ML:** PyTorch, TensorFlow, NumPy, SciPy  
 **Data/Finance:** yfinance, Pandas, Matplotlib, Seaborn
-**Programming*:* C/C++, Python, JS
 
 ---
 
